@@ -32,6 +32,6 @@ This 3D stopwatch is inspired by various creative designs on CodePen and other p
 
 ## Author
 
-This 3D stopwatch is created by [Aarzoo](https://twitter.com/Aarzoo75). If you have any questions or feedback, you can reach me at [Your Email Address].
+This 3D stopwatch is created by [Aarzoo](https://twitter.com/Aarzoo75). If you have any questions or feedback, you can reach me at [iaarzoo40@gmail.com](mailto:iaarzoo40@gmail.com).
 
 Enjoy using the 3D stopwatch!
